@@ -1,0 +1,13 @@
+{
+  "base_url": "https://deltapath-cc.maxis.com.my",
+  "username": "andersonong",
+  "group_name": "abc",
+  "group_code": "ABC ABC",
+  "unified_limit": "10",
+  "host_ip": "192.168.0.1",
+  "port": "5060",
+  "context_prefix": "abc",
+  "perm_group_prefix": "abc",
+  "inbound_ranges": "6032722300-6032722366",
+  "user_ext": "6032722300-6032722303"
+}

@@ -1,0 +1,14 @@
+{
+    "base_url": "https://deltapath-cc.maxis.com.my",
+    "credentials": {
+        "username": "******",
+        "password": "********"
+    },
+    "browser_settings": {
+        "headless": false,
+        "timeout": 10000
+    },
+    "modules": {
+        "task1_enabled": true
+    }
+}
