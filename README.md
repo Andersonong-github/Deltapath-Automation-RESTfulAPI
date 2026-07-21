@@ -169,7 +169,7 @@ Three dedicated documents are included with this release:
 ## 🚀 Quick Launch Instructions
 ```bash
 # Navigate to project folder
-cd "c:\\Users\\chinshing\\Downloads\\Deltapath Automation - v2.0"
+cd "c:\\Users\\xxxxxxx\\Downloads\\Deltapath Automation - v2.0"
 
 # Activate virtual environment
 venv\\Scripts\\activate
