@@ -1,0 +1,14 @@
+{
+  "group_name": "ABCE",
+  "group_code": "ABCE",
+  "unified_limit": "10",
+  "host_ip": "202.179.100.99",
+  "port": "1234",
+  "context_prefix": "ABCE",
+  "perm_group_prefix": "ABCE",
+  "inbound_ranges": "6032722300-6032722309",
+  "user_ext": "8123,5467,5555",
+  "htek_model": "uc902g",
+  "usernames": "",
+  "emails": ""
+}

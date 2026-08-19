@@ -1,0 +1,13 @@
+{
+  "group_name": "CARSOME_Kajang",
+  "group_code": "MCBLL5248_MV_CARSOME_KJG",
+  "unified_limit": "10",
+  "host_ip": "202.179.100.99",
+  "port": "7978",
+  "context_prefix": "CARSOME",
+  "perm_group_prefix": "CARSOME",
+  "inbound_ranges": "60338314500-60338314509",
+  "user_ext": "60338314500-60338314503",
+  "htek_model": "uc902g",
+  "usernames": ""
+}

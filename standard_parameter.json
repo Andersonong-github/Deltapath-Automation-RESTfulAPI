@@ -1,0 +1,12 @@
+{
+  "group_name": "BCBC",
+  "group_code": "BCBC",
+  "unified_limit": "10",
+  "host_ip": "202.179.100.99",
+  "port": "1234",
+  "context_prefix": "BCBC",
+  "perm_group_prefix": "BCBC",
+  "inbound_ranges": "6036641041-6036641045",
+  "user_ext": "6036641041-6036641045",
+  "htek_model": "uc902g"
+}
